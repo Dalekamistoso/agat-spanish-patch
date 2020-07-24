@@ -1,0 +1,50 @@
+TRADUCCION DE AGAT SERIES EMULATOR A ESPAÑOL VERSION 0.1
+=========================================================
+
+
+He creado este parche para traducir el mejor emulador 
+existente de la serie de computadoras AGAT soviéticas
+así como otros ordenadores derivados y clones soviéticos
+
+
+COMPATIBILIDAD
+==============
+
+El parche es compatible con la última versión 1.29.2-exp1
+
+
+CARACTERISTICAS BUGS Y LIMITACIONES
+===================================
+
+Debería estar traducido el 100% de los textos.
+
+
+COMO USAR ESTA TRADUCCION
+=========================
+
+1.- Descarga el emulador de esta página para tu sistema:
+
+https://sourceforge.net/projects/agatemulator/files/agatemulator/1.29.2-exp1/agatemulator-1.29.2-exp1.exe/download
+
+2.- Instala el emulador
+
+3.- Descomprime este zip en el directorio del emulador
+
+4.- Sobreescribe todos los archivos
+
+5.- Listo.
+
+
+Créditos
+========
+
+- DrWh0/Dalekamistoso: Traducción a castellano e inglés. 
+- Alex Krasivsky / Sergey Gromov: Autores del emulador.
+
+LICENCIA
+========
+
+Este parche y sus fuentes son de libres distribución y uso de acuerdo a la licencia original del autor (GPL v2)
+
+
+Fecha: 25/07/2020
